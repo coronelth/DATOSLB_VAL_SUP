@@ -1,0 +1,23 @@
+                    
+     o-----o-----o  
+     | -   |   - |  
+     |   - | -   |                maxwellConstruction
+     o<----o---->o  
+     |   - | -   |  Problema de Construcción de Maxwell en CPU 
+     | -   |   - |  
+     o-----o-----o  
+
+ Lectura de puntos
+
+ Lectura de índices de vecinos
+
+ Lectura de celdas
+
+ Lectura de nodos de frontera
+
+ Tiempo = 100000
+ Tiempo de ejecución = 791.5107 segundos
+
+
+ Fin. Tiempo total = 791.5117 segundos
+
