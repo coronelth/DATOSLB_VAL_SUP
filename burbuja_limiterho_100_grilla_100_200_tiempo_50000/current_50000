@@ -1,0 +1,170 @@
+                    
+     o-----o-----o  
+     | -   |   - |  
+     |   - | -   |                            bubbleGeneration
+     o<----o---->o  
+     |   - | -   |  Generación de una burbuja de gas mediante una superficie calefaccionada en CPU 
+     | -   |   - |  
+     o-----o-----o  
+
+ Lectura de puntos
+
+ Lectura de índices de vecinos
+
+ Lectura de celdas
+
+ Lectura de nodos de frontera
+
+ Tiempo = 1000
+ Tiempo de ejecución = 19.7238 segundos
+
+ Tiempo = 2000
+ Tiempo de ejecución = 39.4245 segundos
+
+ Tiempo = 3000
+ Tiempo de ejecución = 59.1347 segundos
+
+ Tiempo = 4000
+ Tiempo de ejecución = 78.9075 segundos
+
+ Tiempo = 5000
+ Tiempo de ejecución = 98.6474 segundos
+
+ Tiempo = 6000
+ Tiempo de ejecución = 118.3904 segundos
+
+ Tiempo = 7000
+ Tiempo de ejecución = 138.1397 segundos
+
+ Tiempo = 8000
+ Tiempo de ejecución = 157.8938 segundos
+
+ Tiempo = 9000
+ Tiempo de ejecución = 177.6523 segundos
+
+ Tiempo = 10000
+ Tiempo de ejecución = 197.8902 segundos
+
+ Tiempo = 11000
+ Tiempo de ejecución = 217.7558 segundos
+
+ Tiempo = 12000
+ Tiempo de ejecución = 237.5203 segundos
+
+ Tiempo = 13000
+ Tiempo de ejecución = 257.2874 segundos
+
+ Tiempo = 14000
+ Tiempo de ejecución = 277.0506 segundos
+
+ Tiempo = 15000
+ Tiempo de ejecución = 296.8146 segundos
+
+ Tiempo = 16000
+ Tiempo de ejecución = 316.5762 segundos
+
+ Tiempo = 17000
+ Tiempo de ejecución = 336.3910 segundos
+
+ Tiempo = 18000
+ Tiempo de ejecución = 356.1677 segundos
+
+ Tiempo = 19000
+ Tiempo de ejecución = 375.9474 segundos
+
+ Tiempo = 20000
+ Tiempo de ejecución = 395.7277 segundos
+
+ Tiempo = 21000
+ Tiempo de ejecución = 415.5090 segundos
+
+ Tiempo = 22000
+ Tiempo de ejecución = 435.2923 segundos
+
+ Tiempo = 23000
+ Tiempo de ejecución = 455.3906 segundos
+
+ Tiempo = 24000
+ Tiempo de ejecución = 475.1767 segundos
+
+ Tiempo = 25000
+ Tiempo de ejecución = 494.9611 segundos
+
+ Tiempo = 26000
+ Tiempo de ejecución = 514.7463 segundos
+
+ Tiempo = 27000
+ Tiempo de ejecución = 534.5339 segundos
+
+ Tiempo = 28000
+ Tiempo de ejecución = 554.3229 segundos
+
+ Tiempo = 29000
+ Tiempo de ejecución = 574.1152 segundos
+
+ Tiempo = 30000
+ Tiempo de ejecución = 593.9980 segundos
+
+ Tiempo = 31000
+ Tiempo de ejecución = 613.7892 segundos
+
+ Tiempo = 32000
+ Tiempo de ejecución = 633.5823 segundos
+
+ Tiempo = 33000
+ Tiempo de ejecución = 653.3596 segundos
+
+ Tiempo = 34000
+ Tiempo de ejecución = 673.1232 segundos
+
+ Tiempo = 35000
+ Tiempo de ejecución = 692.8923 segundos
+
+ Tiempo = 36000
+ Tiempo de ejecución = 712.7056 segundos
+
+ Tiempo = 37000
+ Tiempo de ejecución = 732.4702 segundos
+
+ Tiempo = 38000
+ Tiempo de ejecución = 752.2248 segundos
+
+ Tiempo = 39000
+ Tiempo de ejecución = 771.9743 segundos
+
+ Tiempo = 40000
+ Tiempo de ejecución = 791.7330 segundos
+
+ Tiempo = 41000
+ Tiempo de ejecución = 811.4954 segundos
+
+ Tiempo = 42000
+ Tiempo de ejecución = 831.2646 segundos
+
+ Tiempo = 43000
+ Tiempo de ejecución = 851.1229 segundos
+
+ Tiempo = 44000
+ Tiempo de ejecución = 870.8996 segundos
+
+ Tiempo = 45000
+ Tiempo de ejecución = 890.6793 segundos
+
+ Tiempo = 46000
+ Tiempo de ejecución = 910.4586 segundos
+
+ Tiempo = 47000
+ Tiempo de ejecución = 930.2380 segundos
+
+ Tiempo = 48000
+ Tiempo de ejecución = 950.6887 segundos
+
+ Tiempo = 49000
+ Tiempo de ejecución = 970.9113 segundos
+
+ Tiempo = 50000
+ Tiempo de ejecución = 990.6727 segundos
+
+
+ Fin. Tiempo total = 990.6844 segundos
+
