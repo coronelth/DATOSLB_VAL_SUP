@@ -1,0 +1,29 @@
+                    
+     o-----o-----o  
+     | -   |   - |  
+     |   - | -   |                cudaMaxwellConstruction 
+     o<----o---->o  
+     |   - | -   |  Construccion de Maxwell isotérmica en dominio bidimensional
+     | -   |   - |  
+     o-----o-----o  
+
+
+ -- Informacion general del device --  
+
+  Nombre: GeForce GTX 760
+  Compute capability: 3.0
+  Total global mem: 2.10 GB
+  Total constant Mem: 65536
+
+
+ Lectura de puntos
+
+ Lectura de índices de vecinos
+
+ Lectura de celdas
+
+ Lectura de nodos de frontera
+
+
+ Fin. Tiempo total = 18.7055 segundos
+
