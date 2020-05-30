@@ -1,0 +1,29 @@
+                    
+     o-----o-----o  
+     | -   |   - |  
+     |   - | -   |                cudaMaxwellConstruction 
+     o<----o---->o  
+     |   - | -   |  Construccion de Maxwell isotérmica en dominio bidimensional
+     | -   |   - |  
+     o-----o-----o  
+
+
+ -- Informacion general del device --  
+
+  Nombre: GeForce GTX 970
+  Compute capability: 5.2
+  Total global mem: 4.24 GB
+  Total constant Mem: 65536
+
+
+ Lectura de puntos
+
+ Lectura de índices de vecinos
+
+ Lectura de celdas
+
+ Lectura de nodos de frontera
+
+
+ Fin. Tiempo total = 17.0018 segundos
+

@@ -1,0 +1,29 @@
+                    
+     o-----o-----o  
+     | -   |   - |  
+     |   - | -   |                          cudaVdWColumnHT 
+     o<----o---->o  
+     |   - | -   |  Estratificación de fluido Van der Waals con temperatura no uniforme
+     | -   |   - |  
+     o-----o-----o  
+
+
+ -- Informacion general del device --  
+
+  Nombre: GeForce GTX 970
+  Compute capability: 5.2
+  Total global mem: 4.24 GB
+  Total constant Mem: 65536
+
+
+ Lectura de puntos
+
+ Lectura de índices de vecinos
+
+ Lectura de celdas
+
+ Lectura de nodos de frontera
+
+
+ Fin. Tiempo total = 116.1197 segundos
+
