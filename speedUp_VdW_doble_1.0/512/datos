@@ -1,0 +1,20 @@
+                    
+     o-----o-----o  
+     | -   |   - |  
+     |   - | -   |                            VdWColumnHT
+     o<----o---->o  
+     |   - | -   |  Estratificación de fluido Van der Waals con ecuación de enrgía en CPU 
+     | -   |   - |  
+     o-----o-----o  
+
+ Lectura de puntos
+
+ Lectura de índices de vecinos
+
+ Lectura de celdas
+
+ Lectura de nodos de frontera
+
+
+ Fin. Tiempo total = 151.2405 segundos
+
